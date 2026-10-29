@@ -48,3 +48,7 @@ kimi/
 ## Caveat
 
 In headless (`-p`) mode Kimi runs shell commands without asking for approval, so write mode has no sandbox. Use it in a git working tree so changes are easy to inspect and revert.
+
+## License
+
+[MIT](LICENSE)
